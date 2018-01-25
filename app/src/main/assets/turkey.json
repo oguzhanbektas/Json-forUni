@@ -1,0 +1,2425 @@
+{
+  "array": [
+    {
+      "il": "ADANA",
+      "plaka": 1000,
+      "ilce": [
+        "ALADAĞ",
+        "ÇUKUROVA",
+        "İMAMOĞLU",
+        "KARAİSALI",
+        "KARATAŞ",
+        "KOZAN",
+        "POZANTI",
+        "SAİMBEYLİ",
+        "SARIÇAM",
+        "SEYHAN",
+        "TUFANBEYLİ",
+        "YUMURTALIK",
+        "YÜREĞİR",
+        "CEYHAN",
+        "FEKE"
+      ],
+      "postakodlari": [
+        "01720",
+        "01360",
+        "01702",
+        "01770",
+        "01900",
+        "01502",
+        "01472",
+        "01740",
+        "01790",
+        "01130",
+        "01642",
+        "01682",
+        "01415",
+        "01922",
+        "01662"
+      ]
+    },
+    {
+      "il": "ADIYAMAN",
+      "plaka": 2000,
+      "ilce": [
+        "GERGER",
+        "BESNİ",
+        "SAMSAT",
+        "SİNCİK",
+        "TUT",
+        "GÖLBAŞI",
+        "ÇELİKHAN",
+        "KAHTA"
+      ],
+      "postakodlari": [
+        "02702",
+        "02300",
+        "02802",
+        "02902",
+        "02352",
+        "02500",
+        "02600",
+        "02450"
+      ]
+    },
+    {
+      "il": "AFYONKARAHİSAR",
+      "plaka": 3000,
+      "ilce": [
+        "ÇAY",
+        "SİNANPAŞA",
+        "DAZKIRI",
+        "DİNAR",
+        "EMİRDAĞ",
+        "EVCİLER",
+        "HOCALAR",
+        "İHSANİYE",
+        "İSCEHİSAR",
+        "KIZILÖREN",
+        "SANDIKLI",
+        "BOLVADİN",
+        "SULTANDAĞI",
+        "ŞUHUT",
+        "BAŞMAKÇI",
+        "ÇOBANLAR",
+        "BAYAT"
+      ],
+      "postakodlari": [
+        "03700",
+        "03852",
+        "03950",
+        "03400",
+        "03602",
+        "03962",
+        "03530",
+        "03372",
+        "03752",
+        "03562",
+        "03502",
+        "03300",
+        "03911",
+        "03810",
+        "03452",
+        "03060",
+        "03780"
+      ]
+    },
+    {
+      "il": "AĞRI",
+      "plaka": 4000,
+      "ilce": [
+        "HAMUR",
+        "DOĞUBAYAZIT",
+        "TAŞLIÇAY",
+        "TUTA",
+        "DİYADİN",
+        "ELEŞKİRT",
+        "PATNOS"
+      ],
+      "postakodlari": [
+        "04852",
+        "04402",
+        "04802",
+        "04702",
+        "04705",
+        "04602",
+        "04503"
+      ]
+    },
+    {
+      "il": "AMASYA",
+      "plaka": 5000,
+      "ilce": [
+        "MERZİFON",
+        "SULUOVA",
+        "TAŞOVA",
+        "GÜMÜŞHACIKÖY",
+        "GÖYNÜCEK",
+        "HAMAMÖZÜ"
+      ],
+      "postakodlari": [
+        "05302",
+        "05502",
+        "05503",
+        "05702",
+        "05900",
+        "05720"
+      ]
+    },
+    {
+      "il": "ANKARA",
+      "plaka": 6000,
+      "ilce": [
+        "AYAŞ",
+        "BALA",
+        "BEYPAZARI",
+        "ÇAMLIDERE",
+        "ÇANKAYA",
+        "ÇUBUK",
+        "AKYURT",
+        "ETİMESGUT",
+        "EVREN",
+        "GÖLBAŞI",
+        "GÜDÜL",
+        "HAYMANA",
+        "KALECİK",
+        "KAZAN",
+        "KEÇİÖREN",
+        "KIZILCAHAMAM",
+        "MAMAK",
+        "NALLIHAN",
+        "POLATLI",
+        "PURSAKLAR",
+        "SİNCAN",
+        "ŞEREFLİKOÇHİSAR",
+        "YENİMAHALLE",
+        "ALTINDAĞ",
+        "ELMADAĞ"
+      ],
+      "postakodlari": [
+        "06710",
+        "06720",
+        "06730",
+        "06740",
+        "06520",
+        "06760",
+        "06750",
+        "06815",
+        "06770",
+        "06830",
+        "06840",
+        "06860",
+        "06870",
+        "06870",
+        "06291",
+        "06890",
+        "06480",
+        "06920",
+        "06900",
+        "06145",
+        "06890",
+        "06480",
+        "06950",
+        "06190"
+      ]
+    },
+    {
+      "il": "ANTALYA",
+      "plaka": 7000,
+      "ilce": [
+        "AKSU",
+        "DEMRE",
+        "DÖŞEMEALTI",
+        "ELMALI",
+        "FİNİKE",
+        "GAZİPAŞA",
+        "GÜNDOĞMUŞ",
+        "İBRADI",
+        "KAŞ",
+        "KEMER",
+        "KEPEZ",
+        "KONYAALTI",
+        "ALANYA",
+        "KUMLUCA",
+        "MANAVGAT",
+        "MURATPAŞA",
+        "SERİK",
+        "AKSEKİ",
+        "KORKUTELİ"
+      ],
+      "postakodlari": [
+        "07112",
+        "07571",
+        "07190",
+        "07700",
+        "07740",
+        "07900",
+        "07860",
+        "07680",
+        "07960",
+        "07982",
+        "07080",
+        "07070",
+        "07400",
+        "07350",
+        "07600",
+        "07040",
+        "07500",
+        "07630",
+        "07800"
+      ]
+    },
+    {
+      "il": "ARTVİN",
+      "plaka": 8000,
+      "ilce": [
+        "ARHAVİ",
+        "BORÇKA",
+        "HOPA",
+        "MURGUL",
+        "ŞAVŞAT",
+        "YUSUFELİ",
+        "ARDANUÇ"
+      ],
+      "postakodlari": [
+        "08290",
+        "08490",
+        "08690",
+        "08590",
+        "08790",
+        "08890",
+        "08890"
+      ]
+    },
+    {
+      "il": "AYDIN",
+      "plaka": 9000,
+      "ilce": [
+        "BUHARKENT",
+        "ÇİNE",
+        "DİDİM",
+        "GERMENCİK",
+        "İNCİRLİOVA",
+        "KARACASU",
+        "KARPUZLU",
+        "KOÇARLI",
+        "KÖŞK",
+        "KUŞADASI",
+        "KUYUCAK",
+        "NAZİLLİ",
+        "SÖKE",
+        "SULTANHİSAR",
+        "YENİPAZAR",
+        "EFELER",
+        "BOZDOĞAN"
+      ],
+      "postakodlari": [
+        "09500",
+        "09500",
+        "09100",
+        "09700",
+        "09600",
+        "09370",
+        "09370",
+        "09970",
+        "09570",
+        "09400",
+        "09930",
+        "09800",
+        "09200",
+        "09470",
+        "09010",
+        "09760",
+        "09760"
+      ]
+    },
+    {
+      "il": "BALIKESİR",
+      "plaka": 10000,
+      "ilce": [
+        "BANDIRMA",
+        "BİGADİÇ",
+        "DURSUNBEY",
+        "EDREMİT",
+        "ERDEK",
+        "GÖMEÇ",
+        "GÖNEN",
+        "HAVRAN",
+        "İVRİNDİ",
+        "KEPSUT",
+        "MANYAS",
+        "MARMARA",
+        "SAVAŞTEPE",
+        "SINDIRGI",
+        "SUSURLUK",
+        "AYVALIK",
+        "ALTIEYLÜL",
+        "KARESİ",
+        "BALYA",
+        "BURHANİYE"
+      ],
+      "postakodlari": [
+        "10200",
+        "10463",
+        "10802",
+        "10390",
+        "10502",
+        "10717",
+        "10900",
+        "10562",
+        "10770",
+        "10662",
+        "10472",
+        "10360",
+        "10582",
+        "10332",
+        "10602",
+        "10400",
+        "10195",
+        "01662",
+        "10842",
+        "10772"
+      ]
+    },
+    {
+      "il": "BİLECİK",
+      "plaka": 11000,
+      "ilce": [
+        "SÖĞÜT",
+        "YENİPAZAR",
+        "OSMANELİ",
+        "İNHİSAR",
+        "GÖLPAZARI",
+        "BOZÜYÜK",
+        "PAZARYERİ"
+      ],
+      "postakodlari": [
+        "11602",
+        "11782",
+        "11782",
+        "11642",
+        "11702",
+        "11460",
+        "11802"
+      ]
+    },
+    {
+      "il": "BİNGÖL",
+      "plaka": 12000,
+      "ilce": [
+        "ADAKLI",
+        "YEDİSU",
+        "KARLIOVA",
+        "KİĞI",
+        "SOLHAN",
+        "YAYLADERE",
+        "GENÇ"
+      ],
+      "postakodlari": [
+        "12602",
+        "12832",
+        "12902",
+        "12802",
+        "12702",
+        "12652",
+        "12502"
+      ]
+    },
+    {
+      "il": "BİTLİS",
+      "plaka": 13000,
+      "ilce": [
+        "AHLAT",
+        "ADİLCEVAZ",
+        "TATVAN",
+        "MUTKİ",
+        "HİZAN",
+        "GÜROYMAK"
+      ],
+      "postakodlari": [
+        "13402",
+        "13502",
+        "13200",
+        "13200",
+        "13602",
+        "13802"
+      ]
+    },
+    {
+      "il": "BOLU",
+      "plaka": 14000,
+      "ilce": [
+        "SEBEN",
+        "YENİÇAĞA",
+        "GEREDE",
+        "GÖYNÜK",
+        "DÖRTDİVAN",
+        "MENGEN",
+        "MUDURNU",
+        "KIBRISCIK"
+      ],
+      "postakodlari": [
+        "14752",
+        "14652",
+        "14902",
+        "14782",
+        "14912",
+        "14850",
+        "14802",
+        "14612"
+      ]
+    },
+    {
+      "il": "BURDUR",
+      "plaka": 15000,
+      "ilce": [
+        "GÖLHİSAR",
+        "KARAMANLI",
+        "KEMER",
+        "TEFENNİ",
+        "YEŞİLOVA",
+        "AĞLASUN",
+        "ALTINYAYLA",
+        "BUCAK",
+        "ÇAVDIR",
+        "ÇELTİKÇİ"
+      ],
+      "postakodlari": [
+        "15402",
+        "15700",
+        "15090",
+        "15602",
+        "15502",
+        "15800",
+        "15422",
+        "15325",
+        "15902",
+        "15072"
+      ]
+    },
+    {
+      "il": "BURSA",
+      "plaka": 16000,
+      "ilce": [
+        "İNEGÖL",
+        "İZNİK",
+        "KELES",
+        "KESTEL",
+        "MUDANYA",
+        "MUSTAFAKEMALPAŞA",
+        "NİLÜFER",
+        "ORHANELİ",
+        "ORHANGAZİ",
+        "OSMANGAZİ",
+        "YENİŞEHİR",
+        "YILDIRIM",
+        "BÜYÜKORHAN",
+        "GEMLİK",
+        "GÜRSU",
+        "HARMANCIK",
+        "KARACABEY"
+      ],
+      "postakodlari": [
+        "16400",
+        "16860",
+        "16740",
+        "16450",
+        "16940",
+        "16500",
+        "16225",
+        "16980",
+        "16800",
+        "16080",
+        "16900",
+        "16320",
+        "16990",
+        "16600",
+        "16580",
+        "16770",
+        "16700"
+      ]
+    },
+    {
+      "il": "ÇANAKKALE",
+      "plaka": 17000,
+      "ilce": [
+        "ECEABAT",
+        "GELİBOLU",
+        "ÇAN",
+        "İMROZ",
+        "LAPSEKİ",
+        "YENİCE",
+        "AYVACIK",
+        "BAYRAMİÇ",
+        "BİGA",
+        "BOZCAADA",
+        "EZİNE"
+      ],
+      "postakodlari": [
+        "17900",
+        "17502",
+        "17402",
+        "17402",
+        "17800",
+        "17560",
+        "17862",
+        "17720",
+        "17300",
+        "17680",
+        "17610"
+      ]
+    },
+    {
+      "il": "ÇANKIRI",
+      "plaka": 18000,
+      "ilce": [
+        "YAPRAKLI",
+        "ILGAZ",
+        "KURŞUNLU",
+        "ORTA",
+        "ŞABANÖZÜ",
+        "KORGUN",
+        "ELDİVAN",
+        "ÇERKEŞ",
+        "BAYRAMÖREN",
+        "ATKARACALAR",
+        "KIZILIRMAK"
+      ],
+      "postakodlari": [
+        "18902",
+        "18402",
+        "18302",
+        "18802",
+        "18652",
+        "18260",
+        "18700",
+        "18602",
+        "18322",
+        "18312",
+        "18282"
+      ]
+    },
+    {
+      "il": "ÇORUM",
+      "plaka": 19000,
+      "ilce": [
+        "İSKİLİP",
+        "KARGI",
+        "LAÇİN",
+        "MECİTÖZÜ",
+        "OĞUZLAR",
+        "ORTAKÖY",
+        "OSMANCIK",
+        "SUNGURLU",
+        "UĞURLUDAĞ",
+        "ALACA",
+        "BAYAT",
+        "BOĞAZKALE",
+        "DODURGA"
+      ],
+      "postakodlari": [
+        "19400",
+        "19900",
+        "19020",
+        "19700",
+        "19072",
+        "19952",
+        "19502",
+        "19302",
+        "19412",
+        "19602",
+        "19800",
+        "19312",
+        "19062"
+      ]
+    },
+    {
+      "il": "DENİZLİ",
+      "plaka": 20000,
+      "ilce": [
+        "BEKİLLİ",
+        "BEYAĞAÇ",
+        "BULDAN",
+        "ÇAL",
+        "ÇAMELİ",
+        "ÇARDAK",
+        "ÇİVRİL",
+        "GÜNEY",
+        "HONAZ",
+        "KALE",
+        "SARAYKÖY"
+      ],
+      "postakodlari": [
+        "20930",
+        "20590",
+        "20400",
+        "20700",
+        "20980",
+        "20600",
+        "20460",
+        "20330",
+        "20570",
+        "20010"
+      ]
+    },
+    {
+      "il": "DİYARBAKIR",
+      "plaka": 21000,
+      "ilce": [
+        "EĞİL",
+        "HAZRO",
+        "HANİ",
+        "DİCLE",
+        "KAYAPINAR",
+        "KOCAKÖY",
+        "KULP",
+        "LİCE",
+        "SİLVAN",
+        "SUR",
+        "YENİŞEHİR",
+        "BAĞLAR",
+        "ERGANİ",
+        "BİSMİL",
+        "ÇERMİK",
+        "ÇINAR",
+        "ÇÜNGÜŞ"
+      ],
+      "postakodlari": [
+        "21470",
+        "21470",
+        "21800",
+        "21830",
+        "21070",
+        "21450",
+        "21900",
+        "21700",
+        "21640",
+        "21200",
+        "21100",
+        "21050",
+        "21950",
+        "21500",
+        "21070",
+        "21900",
+        "21800"
+      ]
+    },
+    {
+      "il": "EDİRNE",
+      "plaka": 22000,
+      "ilce": [
+        "SÜLOĞLU",
+        "UZUNKÖPRÜ",
+        "MERİÇ",
+        "LALAPAŞA",
+        "KEŞAN",
+        "İPSALA",
+        "ENEZ",
+        "HAVSA"
+      ],
+      "postakodlari": [
+        "22580",
+        "22402",
+        "22680",
+        "22970",
+        "22410",
+        "22490",
+        "22700",
+        "22532"
+      ]
+    },
+    {
+      "il": "ELAZIĞ",
+      "plaka": 23000,
+      "ilce": [
+        "AĞIN",
+        "KEBAN",
+        "KOVANCILAR",
+        "MADEN",
+        "PALU",
+        "SİVRİCE",
+        "ALACAKAYA",
+        "ARICAK",
+        "BASKİL",
+        "KARAKOÇAN"
+      ],
+      "postakodlari": [
+        "23960",
+        "23702",
+        "23852",
+        "23402",
+        "23502",
+        "23902",
+        "23410",
+        "23512",
+        "23802",
+        "23602"
+      ]
+    },
+    {
+      "il": "ERZİNCAN",
+      "plaka": 24000,
+      "ilce": [
+        "REFAHİYE",
+        "TERCAN",
+        "KEMALİYE",
+        "KEMAH",
+        "İLİÇ",
+        "ÇAYIRLI",
+        "OTLUKBELİ",
+        "ÜZÜMLÜ"
+      ],
+      "postakodlari": [
+        "24302",
+        "24802",
+        "24610",
+        "24402",
+        "24710",
+        "24500",
+        "24515",
+        "24152"
+      ]
+    },
+    {
+      "il": "ERZURUM",
+      "plaka": 25000,
+      "ilce": [
+        "TORTUM",
+        "KARAÇOBAN",
+        "NARMAN",
+        "OLTU",
+        "OLUR",
+        "PALANDÖKEN",
+        "PASİNLER",
+        "PAZARYOLU",
+        "ŞENKAYA",
+        "TEKMAN",
+        "KÖPRÜKÖY",
+        "UZUNDERE",
+        "YAKUTİYE",
+        "İSPİR",
+        "KARAYAZI",
+        "AŞKALE",
+        "AZİZİYE",
+        "ÇAT",
+        "HINIS",
+        "HORASAN"
+      ],
+      "postakodlari": [
+        "25360",
+        "25610",
+        "25650",
+        "25560",
+        "25930",
+        "25360",
+        "25930",
+        "25360",
+        "25400",
+        "25300",
+        "25070",
+        "25320",
+        "25530",
+        "25900",
+        "25830",
+        "25500",
+        "25700",
+        "25750",
+        "25600",
+        "25800"
+      ]
+    },
+    {
+      "il": "ESKİŞEHİR",
+      "plaka": 26000,
+      "ilce": [
+        "MAHMUDİYE",
+        "ALPU",
+        "MİHALIÇÇIK",
+        "ODUNPAZARI",
+        "SARICAKAYA",
+        "SEYİTGAZİ",
+        "SİVRİHİSAR",
+        "TEPEBAŞI",
+        "BEYLİKOVA",
+        "ÇİFTELER",
+        "GÜNYÜZÜ",
+        "HAN",
+        "İNÖNÜ",
+        "MİHALGAZİ"
+      ],
+      "postakodlari": [
+        "26800",
+        "26850",
+        "26940",
+        "26030",
+        "26870",
+        "26750",
+        "26600",
+        "26555",
+        "26750",
+        "26700",
+        "26630",
+        "26710",
+        "26670",
+        "26880"
+      ]
+    },
+    {
+      "il": "GAZİANTEP",
+      "plaka": 27000,
+      "ilce": [
+        "OĞUZELİ",
+        "ŞAHİNBEY",
+        "ŞEHİTKAMİL",
+        "YAVUZELİ",
+        "NURDAĞI",
+        "NİZİP",
+        "KARKAMIŞ",
+        "İSLAHİYE",
+        "ARABAN"
+      ],
+      "postakodlari": [
+        "27900",
+        "27300",
+        "27080",
+        "27970",
+        "27970",
+        "27840",
+        "27700",
+        "27880",
+        "27800",
+        "27650"
+      ]
+    },
+    {
+      "il": "GİRESUN",
+      "plaka": 28000,
+      "ilce": [
+        "DOĞANKENT",
+        "ESPİYE",
+        "EYNESİL",
+        "GÖRELE",
+        "KEŞAP",
+        "PİRAZİZ",
+        "TİREBOLU",
+        "YAĞLIDERE",
+        "ALUCRA",
+        "BULANCAK",
+        "ÇAMOLUK",
+        "DERELİ"
+      ],
+      "postakodlari": [
+        "28512",
+        "28602",
+        "28852",
+        "28802",
+        "28902",
+        "28342",
+        "28502",
+        "28700",
+        "28310",
+        "28420",
+        "28530"
+      ]
+    },
+    {
+      "il": "GÜMÜŞHANE",
+      "plaka": 29000,
+      "ilce": [
+        "TORUL",
+        "KELKİT",
+        "KÖSE",
+        "KÜRTÜN",
+        "ŞİRAN"
+      ],
+      "postakodlari": [
+        "29802",
+        "29600",
+        "29652",
+        "29832",
+        "29702"
+      ]
+    },
+    {
+      "il": "HAKKARİ",
+      "plaka": 30000,
+      "ilce": [
+        "ÇUKURCA",
+        "YÜKSEKOVA",
+        "ŞEMDİNLİ"
+      ],
+      "postakodlari": [
+        "30720",
+        "30302",
+        "30802"
+      ]
+    },
+    {
+      "il": "HATAY",
+      "plaka": 31000,
+      "ilce": [
+        "İSKENDERUN",
+        "KIRIKHAN",
+        "KUMLU",
+        "REYHANLI",
+        "SAMANDAĞ",
+        "YAYLADAĞI",
+        "ALTINÖZÜ",
+        "BELEN",
+        "DÖRTYOL",
+        "ANTAKYA",
+        "DEFNE",
+        "ARSUZ",
+        "PAYAS",
+        "ERZİN",
+        "HASSA"
+      ],
+      "postakodlari": [
+        "31280",
+        "31440",
+        "31520",
+        "31500",
+        "31800",
+        "31550",
+        "31750",
+        "31350",
+        "31600",
+        "31070",
+        "31160",
+        "31225",
+        "31900",
+        "31960",
+        "31700"
+      ]
+    },
+    {
+      "il": "ISPARTA",
+      "plaka": 32000,
+      "ilce": [
+        "ULUBORLU",
+        "AKSU",
+        "ATABEY",
+        "EĞİRDİR",
+        "GELENDOST",
+        "GÖNEN",
+        "KEÇİBORLU",
+        "SENİRKENT",
+        "SÜTÇÜLER",
+        "YALVAÇ",
+        "ŞARKİKARAAĞAÇ",
+        "YENİŞARBADEMLİ"
+      ],
+      "postakodlari": [
+        "32602",
+        "32510",
+        "32670",
+        "32500",
+        "32902",
+        "32090",
+        "32702",
+        "32602",
+        "32952",
+        "32402",
+        "32802",
+        "32850"
+      ]
+    },
+    {
+      "il": "MERSİN",
+      "plaka": 33000,
+      "ilce": [
+        "ERDEMLİ",
+        "SİLİFKE",
+        "YENİŞEHİR",
+        "MUT",
+        "MEZİTLİ",
+        "GÜLNAR",
+        "TOROSLAR",
+        "ÇAMLIYAYLA",
+        "BOZYAZI",
+        "AYDINCIK",
+        "ANAMUR",
+        "AKDENİZ",
+        "TARSUS"
+      ],
+      "postakodlari": [
+        "33730",
+        "33960",
+        "33110",
+        "33600",
+        "33200",
+        "33700",
+        "33250",
+        "33580",
+        "33830",
+        "33840",
+        "33640",
+        "33040",
+        "33460"
+      ]
+    },
+    {
+      "il": "İSTANBUL",
+      "plaka": 34000,
+      "ilce": [
+        "BEŞİKTAŞ",
+        "BEYKOZ",
+        "BEYLİKDÜZÜ",
+        "BEYOĞLU",
+        "BÜYÜKÇEKMECE",
+        "ÇATALCA",
+        "ÇEKMEKÖY",
+        "ADALAR",
+        "ESENYURT",
+        "EYÜP",
+        "FATİH",
+        "GAZİOSMANPAŞA",
+        "GÜNGÖREN",
+        "KADIKÖY",
+        "KAĞITHANE",
+        "KARTAL",
+        "KÜÇÜKÇEKMECE",
+        "MALTEPE",
+        "PENDİK",
+        "SANCAKTEPE",
+        "SARIYER",
+        "SİLİVRİ",
+        "SULTANBEYLİ",
+        "SULTANGAZİ",
+        "ŞİLE",
+        "ŞİŞLİ",
+        "TUZLA",
+        "ÜMRANİYE",
+        "ÜSKÜDAR",
+        "ZEYTİNBURNU",
+        "ARNAVUTKÖY",
+        "ATAŞEHİR",
+        "AVCILAR",
+        "BAĞCILAR",
+        "BAHÇELİEVLER",
+        "BAKIRKÖY",
+        "BAŞAKŞEHİR",
+        "BAYRAMPAŞA",
+        "ESENLER"
+      ],
+      "postakodlari": [
+        "34342",
+        "34800",
+        "34520",
+        "34440",
+        "34530",
+        "34540",
+        "34799",
+        "34973",
+        "34522",
+        "34055",
+        "34122",
+        "34250",
+        "34165",
+        "34736",
+        "34415",
+        "34870",
+        "34307",
+        "34852",
+        "34906",
+        "34887",
+        "34453",
+        "34582",
+        "34930",
+        "34270",
+        "34990",
+        "34379",
+        "34953",
+        "34773",
+        "34684",
+        "34020",
+        "34287",
+        "34752",
+        "34320",
+        "34212",
+        "34188",
+        "34158",
+        "34492",
+        "34040",
+        "34220"
+      ]
+    },
+    {
+      "il": "İZMİR",
+      "plaka": 35000,
+      "ilce": [
+        "ÇEŞME",
+        "ÇİĞLİ",
+        "DİKİLİ",
+        "FOÇA",
+        "GAZİEMİR",
+        "GÜZELBAHÇE",
+        "KARABAĞLAR",
+        "KARABURUN",
+        "KARŞIYAKA",
+        "KEMALPAŞA",
+        "KINIK",
+        "KİRAZ",
+        "KONAK",
+        "MENDERES",
+        "MENEMEN",
+        "NARLIDERE",
+        "ÖDEMİŞ",
+        "SEFERİHİSAR",
+        "SELÇUK",
+        "TİRE",
+        "TORBALI",
+        "URLA",
+        "ALİAĞA",
+        "BALÇOVA",
+        "BAYINDIR",
+        "BAYRAKLI",
+        "BERGAMA",
+        "BEYDAĞ",
+        "BORNOVA",
+        "BUCA"
+      ],
+      "postakodlari": [
+        "35937",
+        "35640",
+        "35980",
+        "35680",
+        "35410",
+        "35310",
+        "35150",
+        "35960",
+        "35580",
+        "35743",
+        "35990",
+        "35890",
+        "35240",
+        "35472",
+        "35660",
+        "35320",
+        "35750",
+        "35460",
+        "35920",
+        "35900",
+        "35865",
+        "35430",
+        "35800",
+        "35330",
+        "35840",
+        "35510",
+        "35700",
+        "35080",
+        "35790",
+        "35040",
+        "35390"
+      ]
+    },
+    {
+      "il": "KARS",
+      "plaka": 36000,
+      "ilce": [
+        "SUSUZ",
+        "SELİM",
+        "SARIKAMIŞ",
+        "KAĞIZMAN",
+        "DİGOR",
+        "ARPAÇAY",
+        "AKYAKA"
+      ],
+      "postakodlari": [
+        "36762",
+        "36902",
+        "36502",
+        "36702",
+        "36672",
+        "36732",
+        "36780"
+      ]
+    },
+    {
+      "il": "KASTAMONU",
+      "plaka": 37000,
+      "ilce": [
+        "AĞLI",
+        "HANÖNÜ",
+        "İHSANGAZİ",
+        "İNEBOLU",
+        "KÜRE",
+        "PINARBAŞI",
+        "SEYDİLER",
+        "ŞENPAZAR",
+        "TAŞKÖPRÜ",
+        "TOSYA",
+        "ABANA",
+        "BOZKURT",
+        "CİDE",
+        "ÇATALZEYTİN",
+        "DADAY",
+        "DEVREKANİ",
+        "DOĞANYURT",
+        "ARAÇ",
+        "AZDAVAY"
+      ],
+      "postakodlari": [
+        "37920",
+        "37450",
+        "37250",
+        "37502",
+        "37900",
+        "37770",
+        "37272",
+        "37652",
+        "37402",
+        "37302",
+        "37970",
+        "37680",
+        "37600",
+        "37942",
+        "37870",
+        "37700",
+        "37552",
+        "37800",
+        "37752"
+      ]
+    },
+    {
+      "il": "KAYSERİ",
+      "plaka": 38000,
+      "ilce": [
+        "PINARBAŞI",
+        "MELİKGAZİ",
+        "TALAS",
+        "TOMARZA",
+        "YAHYALI",
+        "YEŞİLHİSAR",
+        "KOCASİNAN",
+        "İNCESU",
+        "HACILAR",
+        "FELAHİYE",
+        "DEVELİ",
+        "SARIOĞLAN",
+        "BÜNYAN",
+        "AKKIŞLA",
+        "ÖZVATAN",
+        "SARIZ"
+      ],
+      "postakodlari": [
+        "38700",
+        "38195",
+        "38280",
+        "38900",
+        "38500",
+        "38800",
+        "38090",
+        "38560",
+        "38310",
+        "38750",
+        "38400",
+        "38820",
+        "38600",
+        "38830",
+        "38770",
+        "38660"
+      ]
+    },
+    {
+      "il": "KIRKLARELİ",
+      "plaka": 39000,
+      "ilce": [
+        "VİZE",
+        "PINARHİSAR",
+        "PEHLİVANKÖY",
+        "LÜLEBURGAZ",
+        "KOFÇAZ",
+        "DEMİRKÖY",
+        "BABAESKİ"
+      ],
+      "postakodlari": [
+        "39400",
+        "39300",
+        "39640",
+        "39780",
+        "39702",
+        "39500",
+        "39202"
+      ]
+    },
+    {
+      "il": "KIRŞEHİR",
+      "plaka": 40000,
+      "ilce": [
+        "ÇİÇEKDAĞI",
+        "AKÇAKENT",
+        "AKPINAR",
+        "KAMAN",
+        "BOZTEPE",
+        "MUCUR"
+      ],
+      "postakodlari": [
+        "40702",
+        "40723",
+        "40300",
+        "40300",
+        "40060",
+        "40502"
+      ]
+    },
+    {
+      "il": "KOCAELİ",
+      "plaka": 41000,
+      "ilce": [
+        "DİLOVASI",
+        "KÖRFEZ",
+        "KANDIRA",
+        "İZMİT",
+        "GÖLCÜK",
+        "GEBZE",
+        "KARAMÜRSEL",
+        "DERİNCE",
+        "DARICA",
+        "ÇAYIROVA",
+        "BAŞİSKELE",
+        "KARTEPE"
+      ],
+      "postakodlari": [
+        "41455",
+        "41800",
+        "41600",
+        "41001",
+        "41950",
+        "41400",
+        "41500",
+        "41900",
+        "41700",
+        "41420",
+        "41190",
+        "41090",
+        "41285"
+      ]
+    },
+    {
+      "il": "KONYA",
+      "plaka": 42000,
+      "ilce": [
+        "DEREBUCAK",
+        "DOĞANHİSAR",
+        "EMİRGAZİ",
+        "EREĞLİ",
+        "GÜNEYSINIR",
+        "HADIM",
+        "HALKAPINAR",
+        "HÜYÜK",
+        "ILGIN",
+        "KADINHANI",
+        "KARAPINAR",
+        "KARATAY",
+        "KULU",
+        "MERAM",
+        "SARAYÖNÜ",
+        "SEYDİŞEHİR",
+        "TAŞKENT",
+        "TUZLUKÇU",
+        "YALIHÜYÜK",
+        "YUNAK",
+        "AKÖREN",
+        "AKŞEHİR",
+        "ALTINEKİN",
+        "BEYŞEHİR",
+        "BOZKIR",
+        "CİHANBEYLİ",
+        "ÇELTİK",
+        "ÇUMRA",
+        "DERBENT",
+        "SELÇUKLU"
+      ],
+      "postakodlari": [
+        "42480",
+        "42930",
+        "42910",
+        "42310",
+        "42490",
+        "42830",
+        "42980",
+        "42690",
+        "42600",
+        "42800",
+        "42400",
+        "42290",
+        "42770",
+        "42040",
+        "42430",
+        "42002",
+        "42960",
+        "42970",
+        "42470",
+        "42530",
+        "42460",
+        "42550",
+        "42450",
+        "42700",
+        "42630",
+        "42850",
+        "42920",
+        "42500",
+        "42900",
+        "42100"
+      ]
+    },
+    {
+      "il": "KÜTAHYA",
+      "plaka": 43000,
+      "ilce": [
+        "SİMAV",
+        "TAVŞANLI",
+        "ALTINTAŞ",
+        "ASLANAPA",
+        "ÇAVDARHİSAR",
+        "DOMANİÇ",
+        "DUMLUPINAR",
+        "EMET",
+        "GEDİZ",
+        "HİSARCIK",
+        "PAZARLAR",
+        "ŞAPHANE"
+      ],
+      "postakodlari": [
+        "43502",
+        "43302",
+        "43802",
+        "43212",
+        "43712",
+        "43852",
+        "43822",
+        "43702",
+        "43600",
+        "43782",
+        "43530",
+        "43952"
+      ]
+    },
+    {
+      "il": "MALATYA",
+      "plaka": 44000,
+      "ilce": [
+        "DOĞANŞEHİR",
+        "KULUNCAK",
+        "YEŞİLYURT",
+        "KALE",
+        "HEKİMHAN",
+        "DOĞANYOL",
+        "YAZIHAN",
+        "DARENDE",
+        "BATTALGAZİ",
+        "ARGUVAN",
+        "ARAPGİR",
+        "AKÇADAĞ",
+        "PÜTÜRGE"
+      ],
+      "postakodlari": [
+        "44500",
+        "44760",
+        "44900",
+        "44370",
+        "44400",
+        "44880",
+        "44350",
+        "44700",
+        "44210",
+        "44960",
+        "44800",
+        "44600",
+        "44850"
+      ]
+    },
+    {
+      "il": "MANİSA",
+      "plaka": 45000,
+      "ilce": [
+        "SALİHLİ",
+        "SARIGÖL",
+        "SARUHANLI",
+        "SELENDİ",
+        "SOMA",
+        "TURGUTLU",
+        "AHMETLİ",
+        "AKHİSAR",
+        "ALAŞEHİR",
+        "DEMİRCİ",
+        "GÖLMARMARA",
+        "GÖRDES",
+        "KIRKAĞAÇ",
+        "KÖPRÜBAŞI",
+        "KULA"
+      ],
+      "postakodlari": [
+        "45300",
+        "45470",
+        "45800",
+        "45970",
+        "45500",
+        "45400",
+        "45450",
+        "45200",
+        "45600",
+        "45900",
+        "45580",
+        "45750",
+        "45700",
+        "45930",
+        "45170"
+      ]
+    },
+    {
+      "il": "KAHRAMANMARAŞ",
+      "plaka": 46000,
+      "ilce": [
+        "GÖKSUN",
+        "ÇAĞLAYANCERİT",
+        "ANDIRIN",
+        "EKİNÖZÜ",
+        "ELBİSTAN",
+        "AFŞİN",
+        "NURHAK",
+        "PAZARCIK",
+        "TÜRKOĞLU"
+      ],
+      "postakodlari": [
+        "46600",
+        "46720",
+        "46400",
+        "46360",
+        "46300",
+        "46500",
+        "46370",
+        "46700",
+        "46800"
+      ]
+    },
+    {
+      "il": "MARDİN",
+      "plaka": 47000,
+      "ilce": [
+        "SAVUR",
+        "YEŞİLLİ",
+        "KIZILTEPE",
+        "MİDYAT",
+        "DARGEÇİT",
+        "NUSAYBİN",
+        "ÖMERLİ",
+        "DERİK",
+        "MAZIDAĞI"
+      ],
+      "postakodlari": [
+        "47860",
+        "47650",
+        "47400",
+        "47500",
+        "47750",
+        "47300",
+        "47570",
+        "47800",
+        "47700"
+      ]
+    },
+    {
+      "il": "MUĞLA",
+      "plaka": 48000,
+      "ilce": [
+        "MİLAS",
+        "DALAMAN",
+        "YATAĞAN",
+        "ULA",
+        "ORTACA",
+        "MARMARİS",
+        "KÖYCEĞİZ",
+        "KAVAKLIDERE",
+        "BODRUM",
+        "FETHİYE",
+        "DATÇA"
+      ],
+      "postakodlari": [
+        "48200",
+        "48770",
+        "48500",
+        "48640",
+        "48600",
+        "48700",
+        "48800",
+        "48570",
+        "48400",
+        "48300",
+        "48900"
+      ]
+    },
+    {
+      "il": "MUŞ",
+      "plaka": 49000,
+      "ilce": [
+        "KORKUT",
+        "BULANIK",
+        "VARTO",
+        "MALAZGİRT",
+        "HASKÖY"
+      ],
+      "postakodlari": [
+        "49740",
+        "49740",
+        "49740",
+        "49740",
+        "49740"
+      ]
+    },
+    {
+      "il": "NEVŞEHİR",
+      "plaka": 50000,
+      "ilce": [
+        "ACIGÖL",
+        "AVANOS",
+        "DERİNKUYU",
+        "GÜLŞEHİR",
+        "HACIBEKTAŞ",
+        "KOZAKLI",
+        "ÜRGÜP"
+      ],
+      "postakodlari": [
+        "50140",
+        "50500",
+        "50700",
+        "50900",
+        "50800",
+        "50600",
+        "50400"
+      ]
+    },
+    {
+      "il": "NİĞDE",
+      "plaka": 51000,
+      "ilce": [
+        "ULUKIŞLA",
+        "ALTUNHİSAR",
+        "ÇAMARDI",
+      ],
+      "postakodlari": [
+        "51900",
+        "51900",
+        "51920"
+      ]
+    },
+    {
+      "il": "ORDU",
+      "plaka": 52000,
+      "ilce": [
+        "ULUBEY",
+        "ÜNYE",
+        "AKKUŞ",
+        "AYBASTI",
+        "ÇAMAŞ",
+        "ÇATALPINAR",
+        "ÇAYBAŞI",
+        "FATSA",
+        "GÖLKÖY",
+        "GÜLYALI",
+        "GÜRGENTEPE",
+        "İKİZCE",
+        "KABADÜZ",
+        "KABATAŞ",
+        "KORGAN",
+        "KUMRU",
+        "MESUDİYE",
+        "PERŞEMBE"
+      ],
+      "postakodlari": [
+        "52850",
+        "52300",
+        "52950",
+        "52500",
+        "52430",
+        "52420",
+        "52310",
+        "52400",
+        "52600",
+        "52010",
+        "52610",
+        "52320",
+        "52020",
+        "52520",
+        "52700",
+        "52800",
+        "52900",
+        "52750"
+      ]
+    },
+    {
+      "il": "RİZE",
+      "plaka": 53000,
+      "ilce": [
+        "HEMŞİN",
+        "GÜNEYSU",
+        "KALKANDERE",
+        "İYİDERE",
+        "İKİZDERE",
+        "PAZAR",
+        "FINDIKLI",
+        "DEREPAZARI",
+        "ÇAYELİ",
+        "ÇAMLIHEMŞİN",
+        "ARDEŞEN"
+      ],
+      "postakodlari": [
+        "53550",
+        "53350",
+        "53500",
+        "53600",
+        "53650",
+        "53300",
+        "53700",
+        "53900",
+        "53200",
+        "53750",
+        "53400"
+      ]
+    },
+    {
+      "il": "SAKARYA",
+      "plaka": 54000,
+      "ilce": [
+        "FERİZLİ",
+        "ERENLER",
+        "HENDEK",
+        "AKYAZI",
+        "ADAPAZARI",
+        "GEYVE",
+        "KARAPÜRÇEK",
+        "KARASU",
+        "KAYNARCA",
+        "KOCAALİ",
+        "PAMUKOVA",
+        "SAPANCA",
+        "SERDİVAN",
+        "SÖĞÜTLÜ",
+        "TARAKLI",
+        "ARİFİYE"
+      ],
+      "postakodlari": [
+        "54110",
+        "54200",
+        "54300",
+        "54400",
+        "54000",
+        "54700",
+        "54430",
+        "54500",
+        "54650",
+        "54800",
+        "54900",
+        "54600",
+        "54055",
+        "54160",
+        "54750",
+        "54580"
+      ]
+    },
+    {
+      "il": "SAMSUN",
+      "plaka": 55000,
+      "ilce": [
+        "VEZİRKÖPRÜ",
+        "YAKAKENT",
+        "ONDOKUZMAYIS",
+        "ALAÇAM",
+        "ASARCIK",
+        "ATAKUM",
+        "AYVACIK",
+        "BAFRA",
+        "CANİK",
+        "ÇARŞAMBA",
+        "HAVZA",
+        "İLKADIM",
+        "KAVAK",
+        "LADİK",
+        "SALIPAZARI",
+        "TEKKEKÖY",
+        "TERME"
+      ],
+      "postakodlari": [
+        "55900",
+        "55810",
+        "55420",
+        "55800",
+        "55860",
+        "55200",
+        "55550",
+        "55400",
+        "55080",
+        "55500",
+        "55700",
+        "55100",
+        "55850",
+        "55760",
+        "55530",
+        "55300",
+        "55600"
+      ]
+    },
+    {
+      "il": "SİİRT",
+      "plaka": 56000,
+      "ilce": [
+        "AYDINLAR",
+        "ŞİRVAN",
+        "PERVARİ",
+        "KURTALAN",
+        "ERUH",
+        "BAYKAN"
+      ],
+      "postakodlari": [
+        "56870",
+        "56760",
+        "56700",
+        "56500",
+        "56800",
+        "56460"
+      ]
+    },
+    {
+      "il": "SİNOP",
+      "plaka": 57000,
+      "ilce": [
+        "DİKMEN",
+        "TÜRKELİ",
+        "AYANCIK",
+        "BOYABAT",
+        "SARAYDÜZÜ",
+        "GERZE",
+        "ERFELEK",
+        "DURAĞAN"
+      ],
+      "postakodlari": [
+        "57660",
+        "57900",
+        "57400",
+        "57200",
+        "57300",
+        "57600",
+        "57800",
+        "57700"
+      ]
+    },
+    {
+      "il": "SİVAS",
+      "plaka": 58000,
+      "ilce": [
+        "ALTINYAYLA",
+        "GEMEREK",
+        "GÖLOVA",
+        "GÜRÜN",
+        "HAFİK",
+        "İMRANLI",
+        "KANGAL",
+        "KOYULHİSAR",
+        "SUŞEHRİ",
+        "ŞARKIŞLA",
+        "ULAŞ",
+        "YILDIZELİ",
+        "ZARA",
+        "AKINCILAR",
+        "DİVRİĞİ",
+        "DOĞANŞAR"
+      ],
+      "postakodlari": [
+        "58470",
+        "58840",
+        "58640",
+        "58800",
+        "58760",
+        "58980",
+        "58900",
+        "58660",
+        "58600",
+        "58400",
+        "58380",
+        "58500",
+        "58700",
+        "58550",
+        "58300",
+        "58780"
+      ]
+    },
+    {
+      "il": "TEKİRDAĞ",
+      "plaka": 59000,
+      "ilce": [
+        "MURATLI",
+        "ÇERKEZKÖY",
+        "ŞARKÖY",
+        "SARAY",
+        "MARMARAEREĞLİSİ",
+        "MALKARA",
+        "HAYRABOLU",
+        "ÇORLU"
+      ],
+      "postakodlari": [
+        "59700",
+        "59500",
+        "59800",
+        "59600",
+        "59740",
+        "59300",
+        "59400",
+        "59850"
+      ]
+    },
+    {
+      "il": "TOKAT",
+      "plaka": 60000,
+      "ilce": [
+        "TURHAL",
+        "REŞADİYE",
+        "PAZAR",
+        "NİKSAR",
+        "ERBAA",
+        "BAŞÇİFTLİK",
+        "ARTOVA",
+        "ALMUS",
+        "YEŞİLYURT",
+        "SULUSARAY",
+        "ZİLE"
+      ],
+      "postakodlari": [
+        "60300",
+        "60700",
+        "60800",
+        "60600",
+        "60500",
+        "60620",
+        "60670",
+        "60900",
+        "60860",
+        "60870",
+        "60400"
+      ]
+    },
+    {
+      "il": "TRABZON",
+      "plaka": 61000,
+      "ilce": [
+        "DÜZKÖY",
+        "MAÇKA",
+        "VAKFIKEBİR",
+        "TONYA",
+        "ŞALPAZARI",
+        "SÜRMENE",
+        "OF",
+        "KÖPRÜBAŞI",
+        "HAYRAT",
+        "YOMRA",
+        "DERNEKPAZARI",
+        "ÇAYKARA",
+        "ÇARŞIBAŞI",
+        "BEŞİKDÜZÜ",
+        "ARSİN",
+        "ARAKLI",
+        "AKÇAABAT",
+      ],
+      "postakodlari": [
+        "61390",
+        "61750",
+        "61400",
+        "61500",
+        "61670",
+        "61600",
+        "61830",
+        "61630",
+        "61450",
+        "61250",
+        "61950",
+        "61940",
+        "61420",
+        "61800",
+        "61900",
+        "61700",
+        "61300"
+      ]
+    },
+    {
+      "il": "TUNCELİ",
+      "plaka": 62000,
+      "ilce": [
+        "MAZGİRT",
+        "PERTEK",
+        "PÜLÜMÜR",
+        "HOZAT",
+        "ÇEMİŞGEZEK",
+        "NAZIMİYE",
+        "OVACIK"
+      ],
+      "postakodlari": [
+        "62800",
+        "62500",
+        "62700",
+        "62400",
+        "62600",
+        "62950",
+        "62900"
+      ]
+    },
+    {
+      "il": "ŞANLIURFA",
+      "plaka": 63000,
+      "ilce": [
+        "AKÇAKALE",
+        "BİRECİK",
+        "BOZOVA",
+        "CEYLANPINAR",
+        "HALFETİ",
+        "HARRAN",
+        "HİLVAN",
+        "SİVEREK",
+        "SURUÇ",
+        "VİRANŞEHİR"
+      ],
+      "postakodlari": [
+        "63500",
+        "63400",
+        "63850",
+        "63570",
+        "63950",
+        "63510",
+        "63900",
+        "63600",
+        "63800",
+        "63700"
+      ]
+    },
+    {
+      "il": "UŞAK",
+      "plaka": 64000,
+      "ilce": [
+        "BANAZ",
+        "EŞME",
+        "KARAHALLI",
+        "SİVASLI",
+        "ULUBEY"
+      ],
+      "postakodlari": [
+        "64500",
+        "64600",
+        "64700",
+        "64800",
+        "64900"
+      ]
+    },
+    {
+      "il": "VAN",
+      "plaka": 65000,
+      "ilce": [
+        "SARAY",
+        "ÇATAK",
+        "BAHÇESARAY",
+        "BAŞKALE",
+        "ÇALDIRAN",
+        "EDREMİT",
+        "ERCİŞ",
+        "GEVAŞ",
+        "GÜRPINAR",
+        "ÖZALP",
+        "MURADİYE"
+      ],
+      "postakodlari": [
+        "65830",
+        "65870",
+        "65710",
+        "65600",
+        "65970",
+        "65170",
+        "65400",
+        "65700",
+        "65900",
+        "65800",
+        "65500"
+      ]
+    },
+    {
+      "il": "YOZGAT",
+      "plaka": 66000,
+      "ilce": [
+        "ÇEKEREK",
+        "SARIKAYA",
+        "AYDINCIK",
+        "BOĞAZLIYAN",
+        "ÇANDIR",
+        "ÇAYIRALAN",
+        "AKDAĞMADENİ",
+        "KADIŞEHRİ",
+        "YERKÖY",
+        "YENİFAKILI",
+        "ŞEFAATLİ",
+        "SORGUN",
+        "SARAYKENT"
+      ],
+      "postakodlari": [
+        "66500",
+        "66650",
+        "66510",
+        "66400",
+        "66620",
+        "66600",
+        "66300",
+        "66540",
+        "66900",
+        "66470",
+        "66800",
+        "66700",
+        "66320"
+      ]
+    },
+    {
+      "il": "ZONGULDAK",
+      "plaka": 67000,
+      "ilce": [
+        "GÖKÇEBEY",
+        "ALAPLI",
+        "DEVREK",
+        "EREĞLİ",
+        "ÇAYCUMA"
+      ],
+      "postakodlari": [
+        "67670",
+        "67850",
+        "67800",
+        "67300",
+        "67900"
+      ]
+    },
+    {
+      "il": "AKSARAY",
+      "plaka": 68000,
+      "ilce": [
+        "ESKİL",
+        "GÜLAĞAÇ",
+        "GÜZELYURT",
+        "ORTAKÖY",
+        "SARIYAHŞİ",
+        "AĞAÇÖREN"
+      ],
+      "postakodlari": [
+        "68800",
+        "68900",
+        "68500",
+        "68400",
+        "68700",
+        "68600"
+      ]
+    },
+    {
+      "il": "BAYBURT",
+      "plaka": 69000,
+      "ilce": [
+        "AYDINTEPE",
+        "DEMİRÖZÜ"
+      ],
+      "postakodlari": [
+        "69500",
+        "69400"
+      ]
+    },
+    {
+      "il": "KARAMAN",
+      "plaka": 70000,
+      "ilce": [
+        "AYRANCI",
+        "BAŞYAYLA",
+        "ERMENEK",
+        "KAZIMKARABEKİR",
+        "SARIVELİLER"
+      ],
+      "postakodlari": [
+        "70500",
+        "70700",
+        "70400",
+        "70600",
+        "70800"
+      ]
+    },
+    {
+      "il": "KIRIKKALE",
+      "plaka": 71000,
+      "ilce": [
+        "BAHŞİLİ",
+        "BALIŞEYH",
+        "ÇELEBİ",
+        "DELİCE",
+        "KARAKEÇİLİ",
+        "KESKİN",
+        "SULAKYURT",
+        "YAHŞİHAN"
+      ],
+      "postakodlari": [
+        "71460",
+        "71520",
+        "71810",
+        "71700",
+        "71500",
+        "71800",
+        "71900",
+        "71450"
+      ]
+    },
+    {
+      "il": "BATMAN",
+      "plaka": 72000,
+      "ilce": [
+        "KOZLUK",
+        "BEŞİRİ",
+        "GERCÜŞ",
+        "HASANKEYF",
+        "SASON"
+      ],
+      "postakodlari": [
+        "72400",
+        "72200",
+        "72300",
+        "72350",
+        "72500"
+      ]
+    },
+    {
+      "il": "ŞIRNAK",
+      "plaka": 73000,
+      "ilce": [
+        "GÜÇLÜKONAK",
+        "İDİL",
+        "SİLOPİ",
+        "ULUDERE",
+        "CİZRE",
+        "BEYTÜŞŞEBAP"
+      ],
+      "postakodlari": [
+        "73700",
+        "73300",
+        "73400",
+        "73600",
+        "73200",
+        "73800"
+      ]
+    },
+    {
+      "il": "BARTIN",
+      "plaka": 74000,
+      "ilce": [
+        "KURUCAŞİLE",
+        "AMASRA",
+        "ULUS"
+      ],
+      "postakodlari": [
+        "74500",
+        "74300",
+        "74600"
+      ]
+    },
+    {
+      "il": "ARDAHAN",
+      "plaka": 75000,
+      "ilce": [
+        "ÇILDIR",
+        "DAMAL",
+        "GÖLE",
+        "HANAK",
+        "POSOF"
+      ],
+      "postakodlari": [
+        "75400",
+        "75600",
+        "75700",
+        "75900",
+        "75802"
+      ]
+    },
+    {
+      "il": "IĞDIR",
+      "plaka": 76000,
+      "ilce": [
+        "KARAKOYUNLU",
+        "ARALIK",
+        "TUZLUCA"
+      ],
+      "postakodlari": [
+        "76700",
+        "76500",
+        "76902"
+      ]
+    },
+    {
+      "il": "YALOVA",
+      "plaka": 77000,
+      "ilce": [
+        "ÇINARCIK",
+        "ARMUTLU",
+        "ALTINOVA",
+        "TERMAL",
+        "ÇİFTLİKKÖY"
+      ],
+      "postakodlari": [
+        "77300",
+        "77500",
+        "77700",
+        "77402",
+        "77602"
+      ]
+    },
+    {
+      "il": "KARABÜK",
+      "plaka": 78000,
+      "ilce": [
+        "SAFRANBOLU",
+        "ESKİPAZAR",
+        "EFLANİ",
+        "OVACIK",
+        "YENİCE"
+      ],
+      "postakodlari": [
+        "78602",
+        "78400",
+        "78300",
+        "78502",
+        "78702"
+      ]
+    },
+    {
+      "il": "KİLİS",
+      "plaka": 79000,
+      "ilce": [
+        "ELBEYLİ",
+        "MUSABEYLİ",
+        "POLATELİ"
+      ],
+      "postakodlari": [
+        "79500",
+        "79602",
+        "79702"
+      ]
+    },
+    {
+      "il": "OSMANİYE",
+      "plaka": 80000,
+      "ilce": [
+        "SUMBAS",
+        "KADİRLİ",
+        "BAHÇE",
+        "DÜZİÇİ",
+        "TOPRAKKALE",
+        "HASANBEYLİ"
+      ],
+      "postakodlari": [
+        "80902",
+        "80750",
+        "80500",
+        "80600",
+        "80952",
+        "80850"
+      ]
+    },
+    {
+      "il": "DÜZCE",
+      "plaka": 81000,
+      "ilce": [
+        "KAYNAŞLI",
+        "AKÇAKOCA",
+        "CUMAYERİ",
+        "ÇİLİMLİ",
+        "GÖLYAKA",
+        "GÜMÜŞOVA",
+        "YIĞILCA",
+        "MERKEZ"
+      ],
+      "postakodlari": [
+        "81900",
+        "81650",
+        "81700",
+        "81750",
+        "81800",
+        "81850",
+        "81010"
+      ]
+    }
+  ]
+}

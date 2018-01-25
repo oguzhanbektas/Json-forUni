@@ -1,0 +1,6 @@
+Trakya Üniversitesi Final için yaptığım proje. 
+Çalışma mantığı:
+
+22000
+diye arama yaptığında Edirne ilindeki ilçeler ekrana gelir
+İlçelerin üzerine tıkladığımızda ise İlçlerin posta kodları Toast mesajı olarak gösterilir.
